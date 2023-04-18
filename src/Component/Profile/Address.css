@@ -1,0 +1,16 @@
+.address {
+    background-color: #f7f7f7;
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin-bottom: 20px;
+    color: rgb(24, 20, 20);
+  }
+  
+  h2 {
+    margin-top: 0;
+  }
+  
+  p {
+    margin: 5px 0;
+  }
+  
